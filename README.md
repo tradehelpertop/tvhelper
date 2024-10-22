@@ -1,4 +1,4 @@
-### How to use
+### Overview
 A chrome extension for TradingView.
 
 
