@@ -34,7 +34,7 @@ Thank you very much!
 
 #### 1. Overview
 
-Tvhelper offers a 7-day free trial for new users. After that, a paid subscription is required.   
+Tvhelper offers a 1-year free trial for new users. After that, a paid subscription is required.   
 At the moment, payments can only be made through Binance Pay, and only USDT is accepted.  
 
 **Price:**  
